@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticssetup.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayermeeditor\\definitions.readyplayermeeditor.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticssetup.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\public\\readyplayermeeditorsettings.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayermeeditor\\uht\\readyplayermeeditorsettings.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticseventlogger.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeamplitudeeventlogger.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticsdata.h",
+            "g:\\ue_5.2\\engine\\source\\editor\\blutility\\public\\editorutilitysubsystem.h",
+            "g:\\ue_5.2\\engine\\source\\editor\\editorsubsystem\\public\\editorsubsystem.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\editorsubsystem\\uht\\editorsubsystem.generated.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blutility\\uht\\editorutilitysubsystem.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermesettings.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "g:\\ue_5.2\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermesettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

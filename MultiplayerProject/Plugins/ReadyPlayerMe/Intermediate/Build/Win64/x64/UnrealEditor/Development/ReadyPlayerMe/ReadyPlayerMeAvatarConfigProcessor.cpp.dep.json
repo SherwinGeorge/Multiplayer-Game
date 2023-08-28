@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeavatarconfigprocessor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeavatarconfigprocessor.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermemorphtargetutils.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeplugininfo.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\public\\avatarconfig\\readyplayermeavatarconfig.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\dataasset.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dataasset.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermeavatarconfig.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\public\\avatarconfig\\readyplayermemorphtargetgroup.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermemorphtargetgroup.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetstringlibrary.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetstringlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

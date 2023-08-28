@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\source\\gltfruntimeeditor\\private\\skeletonexportergltf.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gltfruntimeeditor\\definitions.gltfruntimeeditor.h",
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\source\\gltfruntimeeditor\\public\\skeletonexportergltf.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\exporters\\exporter.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\exporter.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\json\\public\\dom\\jsonobject.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\json\\public\\dom\\jsonvalue.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\json\\public\\jsonglobals.h",
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntimeeditor\\uht\\skeletonexportergltf.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\core\\public\\misc\\base64.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\json\\public\\serialization\\jsonserializer.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\json\\public\\serialization\\jsonreader.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\json\\public\\serialization\\jsonwriter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

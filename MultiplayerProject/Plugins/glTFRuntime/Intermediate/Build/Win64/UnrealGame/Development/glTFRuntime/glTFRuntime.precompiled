@@ -1,0 +1,30 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFAnimBoneCompressionCodec.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFAnimCurveCompressionCodec.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntime.init.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAnimationCurve.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAsset.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAssetActor.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAssetActorAsync.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeFunctionLibrary.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeParser.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeSoundWave.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFAnimBoneCompressionCodec.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFAnimCurveCompressionCodec.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntime.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAnimationCurve.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAsset.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAssetActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeAssetActorAsync.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeFunctionLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeLight.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeParser.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeParserAudio.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeParserCustom.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeParserMaterials.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeParserSkeletalMeshes.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeParserStaticMeshes.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\glTFRuntime\\glTFRuntimeSoundWave.cpp.obj"
+	]
+}

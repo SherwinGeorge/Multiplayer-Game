@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimesoundwave.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimesoundwave.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundwave.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\audiosettings.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\audiosettings.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundmodulationdestination.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundmodulationdestination.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundbase.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundtimecodeoffset.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundtimecodeoffset.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundconcurrency.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundconcurrency.generated.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundbase.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundwavetimecodeinfo.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundwavetimecodeinfo.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundgroups.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundgroups.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\soundwaveloadingbehavior.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundwaveloadingbehavior.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\audioplatformconfiguration\\public\\audiocompressionsettings.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\audioplatformconfiguration\\uht\\audiocompressionsettings.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\public\\contentstreaming.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\public\\renderedtexturestats.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\audioextensions\\public\\iwaveformtransformation.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\audioextensions\\uht\\iwaveformtransformation.generated.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundwave.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimesoundwave.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

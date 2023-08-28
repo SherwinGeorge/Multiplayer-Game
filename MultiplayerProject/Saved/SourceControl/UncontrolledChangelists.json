@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal_Engine/thirdPerson/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/rpm.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/Characters/Mannequins/Animations/Manny/UE.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/NewIKRetargeter.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/MM_Fall_Loop.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/MM_Idle.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/MM_Jump.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/MM_Land.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/MM_Run_Fwd.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/MM_Walk_Fwd.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/RPM_NEW.uasset",
+				"D:/Unreal_Engine/thirdPerson/Plugins/ReadyPlayerMe/Content/Character/Fullbody/Mesh/RPM_Mixamo_SkeletalMesh.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/E3/4PKZ2G64SN7SLVQS8MBUHM.uasset",
+				"D:/Unreal_Engine/thirdPerson/Content/NewIKRig.uasset"
+			]
+		}
+	]
+}

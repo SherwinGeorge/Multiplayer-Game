@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\source\\gltfruntime\\private\\gltfanimcurvecompressioncodec.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfanimcurvecompressioncodec.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animcurvecompressioncodec.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animcurvecompressioncodec.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfanimcurvecompressioncodec.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

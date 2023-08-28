@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeamplitudeeventlogger.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayermeeditor\\definitions.readyplayermeeditor.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeamplitudeeventlogger.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticsdata.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\request\\readyplayermerequestcreator.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

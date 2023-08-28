@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarcachehandler.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarcachehandler.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarstorage.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermesettings.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "g:\\ue_5.2\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermesettings.generated.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermemetadataextractor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

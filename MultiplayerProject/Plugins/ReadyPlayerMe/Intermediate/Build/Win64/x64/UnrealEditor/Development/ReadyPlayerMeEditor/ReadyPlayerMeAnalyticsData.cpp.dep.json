@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticsdata.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal_engine\\wisework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\readyplayermeeditor\\definitions.readyplayermeeditor.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticsdata.h",
+            "d:\\unreal_engine\\wisework\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeplugininfo.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "g:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "g:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
